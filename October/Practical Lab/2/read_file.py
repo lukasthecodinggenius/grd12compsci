@@ -10,6 +10,6 @@ def read_file(path):
         info = file.read()
     return info
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     main()
     
