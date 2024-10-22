@@ -5,4 +5,5 @@ def main():
 def reverse(s):
     return s[::-1]
 
-main()
+if __name__ == '__main__':
+    main()
