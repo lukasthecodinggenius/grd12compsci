@@ -1,0 +1,1 @@
+#In python, polymorphism works by allowing the same function or method work with different types of objects without needing to specify their types. In contrast, languages like java are more strict as you have to declare the types more strictly and use complex syntax to make functions work with different types
