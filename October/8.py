@@ -4,11 +4,11 @@ class Book:
 
 class Novel(Book):
     def read(self):
-        print("Reading a novel with an exciting plot")
+        print("Reading a novel")
 
 class Textbook(Book):
     def read(self):
-        print("Studying a textbook full of information")
+        print("Studying a textbook")
         
 books = [Novel(), Textbook(), Novel()]
 
